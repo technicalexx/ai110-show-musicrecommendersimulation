@@ -1,8 +1,8 @@
 ## Summary:
 
-In this project, I built a simple music recommender system that suggests songs based on a user's preferences. The recommender compares the user's preferred genre, mood, and energy level to the songs in the dataset, gives each song a score, and then ranks the songs from highest to lowest score.
+In this project, we built a simple music recommender system that suggests songs based on a user's preferences. The recommender compares the user's preferred genre, mood, and energy level to the songs in the dataset, gives each song a score, and then ranks the songs from highest to lowest score.
 
-The main goal of this project was to understand how recommendation systems make decisions, how scoring logic affects ranking, and how small design choices can create bias or unexpected results. I also used Copilot to help me think through the logic, implement the code, test different user profiles, and reflect on the strengths and limitations of the recommender.
+The main goal of this project was to understand how recommendation systems make decisions, how scoring logic affects ranking, and how small design choices can create bias or unexpected results. We also used Copilot to help us think through the logic, implement the code, test different user profiles, and reflect on the strengths and limitations of the recommender.
 
 ## PHASE 1: Understanding Recommenders
 
